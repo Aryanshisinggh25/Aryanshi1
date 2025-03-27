@@ -1,7 +1,7 @@
 ![logo](https://github.com/Aryanshisinggh25/Aryanshi1/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aryanshi Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<<img align="right" alt="coding" width=300 boder-radius=10 src="[paste your own link](https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanshisinggh25&label=Profile%20views&color=0e75b6&style=flat" alt="aryanshisinggh25" /> </p>
 
 - 🔭 I’m currently working on **Travelling website**
